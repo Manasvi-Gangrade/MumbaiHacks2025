@@ -52,8 +52,8 @@ Workflow:
 Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/factseeker.git
-cd factseeker
+git clone https://github.com/yourusername/MumbaiHacks2025.git
+cd MumbaiHacks2025
 
 2. Create virtual environment:
 python -m venv venv
@@ -76,7 +76,7 @@ Alerts will be sent automatically via Telegram/WhatsApp.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
