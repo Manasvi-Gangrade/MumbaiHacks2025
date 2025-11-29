@@ -1,7 +1,14 @@
 FactSeeker : Detect, Verify, Alert
+
 <img width="1361" height="907" alt="Screenshot 2025-10-19 232629" src="https://github.com/user-attachments/assets/768516e5-1f84-4baf-9eaa-4ecf85572de9" />
 
-Demonstration Video : https://youtu.be/tI_SYASY7Wk
+Video : https://youtu.be/tI_SYASY7Wk
+
+Pitch Deck Video : https://drive.google.com/file/d/1S5wj4Uluan8en-iHA0tKtGvJrUyZAoOD/view?usp=sharing
+
+FactSeeker Main Dashboard Video : 
+
+Detailed Project Documentation : https://drive.google.com/file/d/19RUB8RfzHq8UPryBsSpK7MHuhk3IwhQ4/view?usp=sharing
 
 FactSeeker is an autonomous, multi-agent AI system designed to detect, verify, and mitigate misinformation in real-time. Leveraging Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), and multimodal analysis, FactSeeker scans multiple platforms—text, images, video, and audio—to identify false content and verify it against trusted, verified sources.
 
