@@ -6,7 +6,9 @@ Video : https://youtu.be/tI_SYASY7Wk
 
 Pitch Deck Video : https://drive.google.com/file/d/1S5wj4Uluan8en-iHA0tKtGvJrUyZAoOD/view?usp=sharing
 
-FactSeeker Main Dashboard Video : 
+<img width="1911" height="1044" alt="image" src="https://github.com/user-attachments/assets/8c886a40-afa2-48ad-9a99-b415e674c5ea" />
+
+FactSeeker Main Dashboard Video : https://drive.google.com/file/d/1rmYHVYWVvlHnXKQsxhYMM947FC8UtHYS/view?usp=sharing
 
 Detailed Project Documentation : https://drive.google.com/file/d/19RUB8RfzHq8UPryBsSpK7MHuhk3IwhQ4/view?usp=sharing
 
